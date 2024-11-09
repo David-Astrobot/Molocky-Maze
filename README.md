@@ -5,5 +5,11 @@
 # Hints will be posted, semi-frequently.
 # Have fun, you can always recommend new levels to this challenge.
 
-## Reccomended Tools
-# cat, cd, xxd, hexdump, steghide, base64, etc.
+<details>
+<summary>Hints</summary>
+<ul>
+<li>Reccomended Tools:</li>
+<ul>
+<li>cat, cd, xxd, hexdump, base58, base64, steghide, binwalk</li>
+</ul>
+</details>
