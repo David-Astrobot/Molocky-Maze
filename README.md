@@ -14,6 +14,6 @@ Have fun, you can always recommend new levels to this challenge.
 <ul>
 <li>Reccomended Tools:</li>
 <ul>
-<li>cat, cd, xxd, hexdump, base58, base64, steghide, binwalk</li>
+<li>cat, cd, xxd, hexdump, base58, base64, steghide, binwalk, hashcat, binwalk</li>
 </ul>
 </details>
