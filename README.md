@@ -1,7 +1,7 @@
 # Molocky-Maze
 Git Clone to Start!
 
-Goal: Find and/or decrypt all the flags.
+Goal: Find and/or decode all the flags.
 
 All of the flags are in the following format: {...}
 
