@@ -1,9 +1,9 @@
 # Molocky-Maze
 Git Clone to Start!
 
-Goal: Find the correct path.
+Goal: Find all the flags.
 
-Each path contains a file which contain a  message in the following format: {...}
+Most of the flags are in the following format: {...}
 
 Hints will be posted, semi-frequently.
 
