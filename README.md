@@ -1,9 +1,9 @@
 # Molocky-Maze
 Git Clone to Start!
 
-Goal: Find and/or decode all the flags.
+Goal: Get to the end of all of the paths.
 
-All of the flags are in the following format: {...}
+All of the flags are in the following format: {{...}}
 
 Hints will be posted, semi-frequently.
 
